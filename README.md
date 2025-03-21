@@ -1,4 +1,4 @@
-<img src="./TePay.png" alt="Logo" width="100"/>
+# TePay
 
 TePay is a .NET library that provides an easy-to-use interface for integrating with the TBC Bank Payment API. It supports various payment operations such as initiating payments, retrieving payment details, canceling payments, handling recurring payments, and authentication.
 
