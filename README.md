@@ -5,7 +5,7 @@ TePay is a .NET library that provides an easy-to-use interface for integrating w
 Before using this project, **please refer to the official TBC Bank API documentation** to understand the API structure and operations:
 [TBC Bank API Documentation](https://developers.tbcbank.ge/docs/checkout-api-overview)
 
-Visit the full TePay documentation here: [GeorgeDoLee.github.io/tepay-docs](https://georgedolee.github.io/tepay-docs)
+Visit the full TePay documentation here: [georgedolee.github.io/tepay-docs](https://georgedolee.github.io/tepay-docs)
 
 ## Dependencies
 
